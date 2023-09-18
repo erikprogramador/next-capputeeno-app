@@ -1,0 +1,122 @@
+[
+  {
+    "uuid": "d819f96a-9552-45b5-9f7c-810c6102e4ba",
+    "slug": "caneca-de-cerâmica-rustica",
+    "name": "Caneca de cerâmica rústica",
+    "pricing": 40.0,
+    "image": "products/mugs/01.png",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "observation": "*It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "category": "canecas"
+  },
+  {
+    "uuid": "60343f88-5e50-4e8b-9794-24e569722c66",
+    "slug": "camiseta-not-today",
+    "name": "Camiseta not today",
+    "pricing": 78.0,
+    "image": "products/t-shirts/01.png",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "observation": "*It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "category": "camisetas"
+  },
+  {
+    "uuid": "de286bf7-3641-4eba-8760-a8f088ef46ef",
+    "slug": "caneca-black-ring",
+    "name": "Caneca Black Ring",
+    "pricing": 32.0,
+    "image": "products/mugs/02.png",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "observation": "*It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "category": "canecas"
+  },
+  {
+    "uuid": "a70f25be-2223-4785-8ebd-1bf5b5cb219c",
+    "slug": "camiseta-broken-saints",
+    "name": "Camiseta Broken Saints",
+    "pricing": 58.0,
+    "image": "products/t-shirts/02.png",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "observation": "*It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "category": "camisetas"
+  },
+  {
+    "uuid": "9733d6fe-05e5-4ba4-80ab-5520009eb7fc",
+    "slug": "camiseta-outcast",
+    "name": "Camiseta Outcast",
+    "pricing": 89.0,
+    "image": "products/t-shirts/03.png",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "observation": "*It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "category": "camisetas"
+  },
+  {
+    "uuid": "d45e1962-c435-4bd1-81ce-ca1e688d7df9",
+    "slug": "caneca-the-grounds",
+    "name": "Caneca The Grounds",
+    "pricing": 85.0,
+    "image": "products/mugs/03.png",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "observation": "*It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "category": "canecas"
+  },
+  {
+    "uuid": "fb28350d-aa56-4d99-9d12-610c48d90055",
+    "slug": "camiseta-evening",
+    "name": "Camiseta evening",
+    "pricing": 69.0,
+    "image": "products/t-shirts/04.png",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "observation": "*It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "category": "camisetas"
+  },
+  {
+    "uuid": "add3cc1f-0cbf-4c04-aa51-2b4ee15b9dc1",
+    "slug": "caneca-preto-fosco",
+    "name": "Caneca preto fosco",
+    "pricing": 28.0,
+    "image": "products/mugs/04.png",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "observation": "*It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "category": "canecas"
+  },
+  {
+    "uuid": "00cb5328-e764-479e-a51b-6d802584887d",
+    "slug": "caneca-never-settle",
+    "name": "Caneca Never settle",
+    "pricing": 43.0,
+    "image": "products/mugs/05.png",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "observation": "*It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "category": "canecas"
+  },
+  {
+    "uuid": "594e92ec-0f61-4bcb-b874-48e36bde9057",
+    "slug": "camiseta-dreamer",
+    "name": "Camiseta DREAMER",
+    "pricing": 55.0,
+    "image": "products/t-shirts/05.png",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "observation": "*It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "category": "camisetas"
+  },
+  {
+    "uuid": "9875e408-cd12-4c16-92e2-ebfd237a11eb",
+    "slug": "caneca-decaf-pandco",
+    "name": "Caneca Decaf! P&Co",
+    "pricing": 32.0,
+    "image": "products/mugs/06.png",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "observation": "*It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "category": "canecas"
+  },
+  {
+    "uuid": "8160c39b-aea0-4045-bc00-1cf9dcd97cd7",
+    "slug": "camiseta-ramones",
+    "name": "Camiseta Ramones",
+    "pricing": 92.0,
+    "image": "products/t-shirts/06.png",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "observation": "*It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "category": "camisetas"
+  }
+]
