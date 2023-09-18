@@ -1,4 +1,5 @@
 import { ProductType } from '@/Types/Product';
+import { formatPricing } from '@/lib/formatPricing';
 import Image from 'next/image';
 import Link from 'next/link';
 
@@ -7,12 +8,6 @@ export default function ProductListItem({
 }: {
   product: ProductType;
 }) {
-  function formatPricing(pricing: number) {
-    return new Intl.NumberFormat('pt-BR', {
-      style: 'currency',
-      currency: 'BRL',
-    }).format(pricing);
-  }
   return (
     <li className="bg-white rounded-lg overflow-hidden">
       <Link href={`/product/${product.slug}`}>
