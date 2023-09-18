@@ -1,0 +1,42 @@
+export default function SearchForm() {
+  return (
+    <form
+      action="#"
+      className="flex items-center bg-gray-100 relative pr-4 rounded-lg"
+    >
+      <input
+        type="text"
+        name="q"
+        id="q"
+        placeholder="Procurando por algo específico?"
+        className="bg-gray-100 pl-4 py-3 pr-4 rounded-lg flex-1 w-72"
+      />
+      <button>
+        <svg
+          width="24"
+          height="24"
+          viewBox="0 0 24 24"
+          fill="none"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <circle
+            cx="11.059"
+            cy="11.0586"
+            r="7.06194"
+            stroke="#737380"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          />
+          <path
+            d="M20.0034 20.0033L16.0518 16.0517"
+            stroke="#737380"
+            stroke-width="1.5"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          />
+        </svg>
+      </button>
+    </form>
+  );
+}
